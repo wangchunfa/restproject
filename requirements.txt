@@ -10,7 +10,7 @@ more-itertools==5.0.0
 mysql==0.0.2
 mysqlclient==1.4.1
 pluggy==0.8.1
-py==1.7.0
+py==1.10.0
 Pygments==2.3.1
 pytest==4.2.0
 pytz==2018.9
